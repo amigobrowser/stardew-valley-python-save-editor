@@ -1,6 +1,10 @@
 # stardew-valley-python-save-editor
 python script to edit stardew valley save files
 
+information:
+made for 1.6 version of stardew valley. I don't know anything about compatibility with older versions, so it would be nice if you go test it and tell me the results.
+compatible with PC and android. probably incompatible with consoles. 
+
 installation:
 1. download and unzip file from the latest release.
 2. download python and lxml library.
