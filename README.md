@@ -14,11 +14,19 @@ chose the number of the file you want to edit, then use any of the commands
 commands:
 
 money - edit current gold amount
+
 totalmoney - edit amount of money ever earned
+
 player name - edit player name
+
 farm name - edit farm name
+
 favorite name - edit favorite thing
+
 house level - edit your house level
+
 skills - open skill edition page
+
 about - about this script
+
 exit - close script
