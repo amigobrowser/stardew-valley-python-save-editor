@@ -1,39 +1,34 @@
-# stardew-valley-python-save-editor
-python script to edit stardew valley save files
+# Stardew Valley Save File Editor
 
-information:
-made for 1.6 version of stardew valley. I don't know anything about compatibility with older versions, so it would be nice if you go test it and tell me the results.
-compatible with PC and android. probably incompatible with consoles. 
+## Information
+This script is designed for version 1.6 of Stardew Valley. I don't know anything about compatibility with older versions, so it would be great if you could test it and share the results. It is compatible with PC and Android, but probably incompatible with consoles.
 
-will my save files be okay?
-this script makes backups of your saves every time you edit them. if something goes wrong, just check SAVE_BACKUP folder that should be in the same directory as script. 
+## Will My Save Files Be Okay?
+This script makes backups of your saves every time you edit them. If something goes wrong, just check the `SAVE_BACKUP` folder, which should be in the same directory as the script.
 
-installation:
-1. download and unzip file from the latest release.
-2. download python and lxml library.
-3. paste your saves to the same directory as script. (it doesn't matter if they are inside a folder, script will detect them anyway)
-4. you can now run the script.
+## Installation
 
-usage:
+1. Download and unzip the file from the latest release.
+2. Download Python and the `lxml` library.
+3. Paste your saves into the same directory as the script. (It doesn't matter if they are inside a folder, the script will detect them anyway.)
+4. You can now run the script.
 
-chose the number of the file you want to edit, then use any of the commands
+## Usage
 
-commands:
+Choose the number of the file you want to edit, then use any of the following commands:
 
-money - edit current gold amount
+### Commands
 
-totalmoney - edit amount of money ever earned
+- **money**: Edit current gold amount.
+- **totalmoney**: Edit the amount of money ever earned.
+- **player name**: Edit player name.
+- **farm name**: Edit farm name.
+- **favorite name**: Edit favorite thing.
+- **house level**: Edit your house level.
+- **skills**: Open skill edition page.
+- **about**: Information about this script.
+- **exit**: Close the script.
 
-player name - edit player name
-
-farm name - edit farm name
-
-favorite name - edit favorite thing
-
-house level - edit your house level
-
-skills - open skill edition page
-
-about - about this script
-
-exit - close script
+## About
+(C) 2025
+Made by amigobrowser and Copilot AI
